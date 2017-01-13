@@ -1,4 +1,4 @@
-FROM cloudobjects/php-app-base
+FROM cloudobjects/php-app-base:5
 MAINTAINER "Lukas Rosenstock"
 
 # Install crontabs and gearman
